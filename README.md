@@ -38,6 +38,7 @@ Essa caminhada só está começando e já estou amando os primeiros passos.
 Criei este repositório para concentrar todas as atividades exercidas, como parte de um constante aprendizado para conseguir realizar a minha sonhada transição de carreira para área de tecnologia.
 
 <br>
+<br>
 
 PS.: Para rodar os códigos é necessário clonar este repositório na sua máquina e ter insladado o Node.js.
 
