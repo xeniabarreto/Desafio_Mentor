@@ -1,6 +1,15 @@
-/*DESAFIO DA ESCADA - HACKER RANK
+/*
+22/02/2022 - 3º encontro
+
+DESAFIO DA ESCADA - HACKER RANK
+
+Montar uma escada com 06 linhas e 06 caracteres (inclui espaço) formando uma escada.
+
 Fonte: https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true
+
 */
+
+
 
 //SOLUÇAO  01 - Ainda com bug de um espaço a mais em todas as linhas
 staircase = () => {
@@ -19,7 +28,7 @@ staircase();
 
 
 
-//
+
 // SOLUÇÃO DOIS
 let n = 6;
 

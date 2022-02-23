@@ -1,0 +1,26 @@
+
+LEITURA
+
+Operadores Matemáticos
+https://tableless.github.io/iniciantes/manual/js/operadores.html
+
+Laços de Repetição - Looping
+https://tableless.github.io/iniciantes/manual/js/controles-de-fluxo-e-controles-de-repeticao.html
+
+Arrays
+https://tableless.github.io/iniciantes/manual/js/arrays.html
+
+
+
+TEMPLATES PARA PERFIL GITHUB
+
+Editar e incluir "sobre" igual Linkedin
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates
+
+
+
+
+LIÇÃO DE CASA
+
+DESAFIO DA ESCADA - HACKER RANK
+Fonte: https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true
