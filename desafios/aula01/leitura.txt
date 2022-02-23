@@ -10,6 +10,8 @@ https://tableless.github.io/iniciantes/manual/js/controles-de-fluxo-e-controles-
 Arrays
 https://tableless.github.io/iniciantes/manual/js/arrays.html
 
+Diferença entre process.stdout.write e console.log
+https://www.geeksforgeeks.org/difference-between-process-stdout-write-and-console-log-in-node-js/
 
 
 TEMPLATES PARA PERFIL GITHUB
