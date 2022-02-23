@@ -18,7 +18,9 @@ staircase = () => {
 
 staircase();
 
-staircaseTwo = () => {
+
+
+//
 // SOLUÇÃO DOIS
 let n = 6;
 
@@ -33,5 +35,5 @@ for ( let i = 1; i <= n; i++) {
     }
     console.log("");
 }
-}
-staircaseTwo();
+//}
+//staircaseTwo();
