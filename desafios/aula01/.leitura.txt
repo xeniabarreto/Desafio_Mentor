@@ -1,6 +1,9 @@
 
 LEITURA
 
+Operadores Atribuicao
+https://celsokitamura.com.br/operadores-aritmeticos-e-de-atribuicao-em-javascript/
+
 Operadores Matemáticos
 https://tableless.github.io/iniciantes/manual/js/operadores.html
 
