@@ -5,3 +5,12 @@ Repositorios organizados no Pinnar
 
 REAVER A LEITURA DA AULA PASSADA O QUE TEM DE DUVIDA
 
+
+LEITURA:
+
+Artigo sobre a estrutura de dados Pilha:
+
+https://ricardo-reis.medium.com/empilhar-stack-em-arrays-javascript-9504645d18ff
+
+
+Exercício: https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true
