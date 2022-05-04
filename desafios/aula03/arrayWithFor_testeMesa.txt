@@ -1,0 +1,93 @@
+MENTOR DANILO
+link da planilha exercicio:
+https://docs.google.com/spreadsheets/d/1fkuj5g3lK719IH78T0DhdZuHAN0VBde7Dp7BUmzcXBk/edit#gid=0
+
+ARRAY:
+
+  INDEX  VALOR
+    0   banana
+    1   maca
+    2   abacate
+    3   abacaxi
+    4   laranja
+    5   limao
+    6   pera
+    7   uva
+    8   alface
+    9   suco
+   10   melao
+   11   melancia
+
+
+	   inicializacao  >  condicao  >  incremento	
+for(	var i = 0;	i < array.length;	i++	) {
+
+	if( array[i] === "melao") {		
+	   console.log(i)		
+	}		
+}				
+
+TESTE DE MESA(escrever exatamente o que a função vai fazer):
+
+i = 0
+0 < 12 ?            TRUE
+0 === "melao"       FALSE
+
+i = 0 + 1 = 1
+1 < 12 ?            TRUE
+1 === "melao"       FALSE
+
+i = 1 + 1 = 2
+2 < 12 ?            TRUE
+2 === "melao"       FALSE 
+
+i = 2 + 1 = 3
+3 < 12 ?            TRUE
+3 === "melao"       FALSE
+
+i = 3 + 1 = 4
+4 < 12 ?            TRUE
+4 === "melao"       FALSE
+
+i = 4 + 1 = 5
+5 < 12 ?            TRUE
+5 === "melao"       FALSE
+
+i = 5 +1 = 6
+6 < 12 ?            TRUE
+6 === "melao"       FALSE
+
+i = 6 + 1 = 7
+7 < 12 ?            TRUE
+7 === "melao"       FALSE
+
+i = 7 + 1 = 8
+8 < 12 ?            TRUE
+8 === "melao"       FALSE
+
+i = 8 + 1 = 9
+9 < 12 ?            TRUE
+9 === "melao"       FALSE
+
+i = 9 + 1 = 10
+10 < 12             TRUE
+10 === "melao"      TRUE
+console.log(10)
+
+i = 10 + 1 = 11
+11 < 12             TRUE
+11 === "melao"      FALSE
+
+i = 11 + 1 = 12
+12 < 12             FALSE
+
+FINISH
+
+OBSERVAÇÃO IMPORTANTE
+
+Obs.: como estamos realizando um console.log, a função verifica todo o array
+até a condição ser FALSA.
+
+Caso utilizassemos um RETURN, a função pararia de verificar o array no primeiro momento
+que encontrasse o elemento desejado, abortando os demais itens do array.
+
