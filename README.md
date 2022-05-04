@@ -23,7 +23,7 @@ Formei-me como desenvolvedora back-end com linguagem Javascript e Node.js.
 
 <br>
 
-Diante do desafio que é a lógica de programação, carinhosamente fui indicada pela  <a href="https://www.linkedin.com/in/siglyane/">Rafaela Dartora</a>, para ser mentorada por <a href="https://www.linkedin.com/in/allan-pires/">Allan Pires</a>.
+Diante do desafio que é a lógica de programação, carinhosamente fui indicada pela  <a href="https://www.linkedin.com/in/siglyane/">Rafaela Dartora</a>, para ser mentorada por <a href="https://www.linkedin.com/in/allan-pires/">Allan Pires e Danilo</a>.
 
 <br>
 
