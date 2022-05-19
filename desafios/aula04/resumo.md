@@ -1,0 +1,26 @@
+[Code Sand Box](https://codesandbox.io/live/a8ef62324b8?file=/src/2022-05-10.js)
+
+## MENTOR: DANILO        DATA: 18/05/2022
+
+### Aula sobre manipulação de Array
+
+<br>
+
+Realizamos um splice para substituir da lista de compras o item "Abobora" por "Batata".
+
+Aprendemos a ler a documentação do metodo splice dentro do Javascript (qdo acessa com CRTL e clicando no metodo)
+
+<br>
+
+### PARA O LAR
+
+Fazer o splice na unha
+
+Fazer uma substituição sem usar o splice, sem deletar um elemento
+
+Usar FOR e IF
+
+<br>
+
+#### Fontes de Pesquisa:
+[MDN - Splice](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
