@@ -1,6 +1,6 @@
  //Exercicio de Casa
   //fazer o splice na unha
-  //fazer uma substituição sem usar o splice, sem deletar um elemento
+  //fazer uma substituição de Abobora por Batata sem usar o splice, sem deletar um elemento
   //Usar FOR e IF
 
   let listaDeMercado = [
@@ -16,11 +16,11 @@
     "suco de maracuja"
   ];
 
-  let i
-
+  
   for (let i = 0; i < listaDeMercado.length; i++) {
       if(listaDeMercado[i] == "abobora"){
-        listaDeMercado[i] = "batata" // essa linha aqui
+        listaDeMercado[i] = "batata" 
           console.log(listaDeMercado)
       }
 }   
+
