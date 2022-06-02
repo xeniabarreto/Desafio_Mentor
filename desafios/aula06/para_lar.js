@@ -2,6 +2,8 @@
 // De tirar melhor proveito do ensido do dev pleno
 // Reduzir a ansiedade
 
+// exemplo do exercicio abaixo na net
+//https://www.w3resource.com/javascript-exercises/javascript-conditional-statements-and-loops-exercise-7.php
 
 // Execute um loop de 1 a 20.
 // Verifique a condição se um número for divisível por 3.
