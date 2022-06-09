@@ -3,17 +3,19 @@
 // que apresenta a mesma sequência de unidades nos dois sentidos.
 
 function palindromo(palavra) {
-    JSON.parse(palavra)
     //transformar string num array
+    JSON.parse(palavra)
     //fazer for para verificar cada letra da palavra
+    for (let i = 0; i <= palavra.length; i++) {
+      const element = palavra[i];
+      
+    }
     //ler palavra de frente para traz
     //ler a palavra de traz para frente
     //usar condicionais IF/ELSE
     //se as palavras forem diferentes false
     //se iguais retorna true
-  
-    palavra.algumaFuncao();
-  
+
     return true;
   }
   
