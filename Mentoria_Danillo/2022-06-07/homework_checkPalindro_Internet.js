@@ -5,9 +5,10 @@
 
 
 function checkPalindrome(str) {     
-    for(var i = 0; i < str.length / 2; i++) //pegando o tamanho da string e verificando ate metade dela
-        if (str[i] != str[str.length - i - 1]) //
-        return false;
+    for(var i = 0; i < str.length / 2; i++) //pegando o tamanho total da string e verificando ate metade dela
+        if (str[i] != str[str.length-1 - i]){ //se a palavra x for diferente de x, return false (o -i e pra retirar o restante da palavra que o for ja percorreu)
+            return false
+        };
         return true;
 }
 

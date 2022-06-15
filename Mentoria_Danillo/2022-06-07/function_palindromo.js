@@ -10,6 +10,7 @@ function palindromo(palavra) {
       const element = palavra[i];
       
     }
+    //pseudocodigo
     //ler palavra de frente para traz
     //ler a palavra de traz para frente
     //usar condicionais IF/ELSE
