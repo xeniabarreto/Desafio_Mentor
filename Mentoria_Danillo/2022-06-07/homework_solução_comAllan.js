@@ -14,8 +14,9 @@ function palindromo(palavra){
 
         if(frente != tras){
             return false
+        }
+        return true //depois que acaba o for e nao retornou false, colocamos o true
     }
-    return true //depois que acaba o for e nao retornou false, colocamos o true
 }
 console.log(palindromo("radar"));
 
@@ -37,4 +38,6 @@ console.log(palindromo("radar"));
     }else{
         return false
     }
-}*/
+    
+}
+**/
