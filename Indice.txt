@@ -1,2 +1,0 @@
-Aula 01 - Operadores matemáticos / Laços / Array / Github
-Aula 02 - Array: push e pop
