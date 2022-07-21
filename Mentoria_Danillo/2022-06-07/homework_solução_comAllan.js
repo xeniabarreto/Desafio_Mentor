@@ -23,7 +23,7 @@ console.log(palindromo("radar"));
 
 //SPLIT transformando em array
 //let mercado = "Cenoura, Abacate" 
-//let split = mercado.split('')
+//let split = mercado.split(''
 //console.log(split)
 
 //Rever inverte Arrays
