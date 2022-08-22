@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+ 
+        // JavaScript implementation of the
+        // above approach
+         
+        // Function to find the Duplicates,
+        // if duplicate occurs 2 times or
+        // more than 2 times in
+        // array so, it will print duplicate
+        // value only once at output
+        function findDuplicates(arr, len) {
+         
+            // initialize ifPresent as false
+            let ifPresent = false;
+         
+            // ArrayList to store the output
+            let al = new Array();
+         
+            for (let i = 0; i < len - 1; i++) {
+                for (let j = i + 1; j < len; j++) {
+                    if (arr[i] == arr[j]) {
+                        // checking if element is
+                        // present in the ArrayList
+                        // or not if present then break
+                        if (al.includes(arr[i])) {
+                            break;
+                        }
+         
+                        // if element is not present in the
+                        // ArrayList then add it to ArrayList
+                        // and make ifPresent at true
+                        else {
+                            al.push(arr[i]);
+                            ifPresent = true;
+                        }
+                    }
+                }
+            }
+         
+            // if duplicates is present
+            // then print ArrayList
+            if (ifPresent == true) {
+         
+                document.write(`[${al}]`);
+            }
+            else {
+                document.write("No duplicates present in arrays");
+            }
+        }
+         
+        // Driver Code
+         
+        let arr = [12, 11, 40, 12, 5, 6, 5, 12, 11];
+        let n = arr.length;
+         
+        findDuplicates(arr, n);
+         
+//https://www.geeksforgeeks.org/find-duplicates-given-array-elements-not-limited-range/
+
+        </script> 
+</body>
+</html>
